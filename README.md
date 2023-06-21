@@ -41,7 +41,7 @@
 </div>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <p >
-<a href="https://app.daily.dev/yonashenok"><img src="https://api.daily.dev/devcards/5a69000f64004cf59c64850d42b895dd.png?r=m5h" width="400" alt="Yonas Henok's Dev Card"/></a>
+<a href="https://app.daily.dev/yonashenok"><img src="https://api.daily.dev/devcards/5a69000f64004cf59c64850d42b895dd.png?r=m5h" width="400" alt="YonasHenok"/></a>
 </p>
 </div>
 
