@@ -1,13 +1,13 @@
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="1350" height="300" />
+<img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="1350" height="300" />
 
 >
 
-# Hi,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Yonas Henok, a passionate Frontend Developer from Ethiopia
+# Hi,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Yonas Henok, a passionate Frontend Developer
 
 <div style="display: flex; flex-direction: row; gap: 10px;">
 <div  style="display: flex; flex-direction: column; gap: 10px;"> 
 <p>
-- 🌍  I'm based in Addis ababa <br>
+- 🌍  I'm based in  Ethiopia <br>
 - ✉️  (yonashenok21@gmail.com)<br>
 - 🧠  I'm learning react.jsx<br>
 - 🤝  I'm open to collaborating on web application<br>
