@@ -4,15 +4,16 @@
 
 # Hi,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Yonas Henok, a passionate Frontend Developer
 
-<p>
-- 🌍  I'm based in  Ethiopia <br>
+- 🌍  I'm based in Ethiopia <br>
 - 🧠  I'm learning react.jsx<br>
 - 🤝  I'm open to collaborating on web application<br>
-- ✉️ Get in touch [yonashenok21@gmail.com](yonashenok21@gmail.com)<br>
+- ✉️ Get in touch [yonashenok21@gmail.com](yonashenok21@gmail.com) <br>
 - ⚡  I be Happy Coding with 🫵<br>
-</p>
+  <br>
 
 ### Skills
+
+<br>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
