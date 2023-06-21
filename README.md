@@ -1,16 +1,18 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV5amN6enNna29wbWdvbWdqeTZjamF4bXV0bXBrbDFxb3VybWx0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LOJeUwhWT63DMEG7b9/giphy.gif" width="1350" height="300" />
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="1350" height="300" />
 
 >
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yonas Henok
+# Hi,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Yonas Henok, a passionate Frontend Developer from Ethiopia
 
-## Frontend Developer
-
-- 🌍  I'm based in Addis ababa
-- ✉️  You can contact me at [yonashenok21@gmail.com](mailto:yonashenok21@gmail.com)
-- 🧠  I'm learning react.jsx
-- 🤝  I'm open to collaborating on web appliction
-- ⚡  I be Happy Coding with 🫵
+<div style="display: flex; flex-direction: row; gap: 10px;">
+<div  style="display: flex; flex-direction: column; gap: 10px;"> 
+<p>
+- 🌍  I'm based in Addis ababa <br>
+- ✉️  (yonashenok21@gmail.com)<br>
+- 🧠  I'm learning react.jsx<br>
+- 🤝  I'm open to collaborating on web application<br>
+- ⚡  I be Happy Coding with 🫵<br>
+</p>
 
 ### Skills
 
@@ -27,4 +29,20 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/YonasHenok" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/YonasHenok23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yonas-henok-996a26217" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/yonashenok24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/YonasHenok3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/YonasHenok" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a>&nbsp;&nbsp; <a href="https://www.github.com/YonasHenok23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/yonas-henok-996a26217" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp; <a href="http://www.medium.com/yonashenok24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> &nbsp;&nbsp; <a href="https://www.twitter.com/YonasHenok3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+</div>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <p >
+<a href="https://app.daily.dev/yonashenok"><img src="https://api.daily.dev/devcards/5a69000f64004cf59c64850d42b895dd.png?r=m5h" width="400" alt="Yonas Henok's Dev Card"/></a>
+</p>
+</div>
+
+## GitHub Stats
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YonasHenok&layout=donut)](https://github.com/YonasHenok/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YonasHenok&show_icons=true&theme=react)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yonashenok&bg_color=101414&color=e8ecf0&line=c2dee0&point=559b99&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
