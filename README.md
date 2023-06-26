@@ -48,6 +48,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YonasHenok&show_icons=true&theme=react)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yonashenok&bg_color=101414&color=e8ecf0&line=c2dee0&point=559b99&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
   <img alt="github-snake" src="https://github.com/Yonashenok/Yonashenok/blob/output/github-contribution-grid-snake.svg" width="1350" height="200"  />
