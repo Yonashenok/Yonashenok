@@ -50,4 +50,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yonashenok&bg_color=101414&color=e8ecf0&line=c2dee0&point=559b99&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/Yonashenok/Yonashenok/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yonashenok/Yonashenok/blob/output/github-contribution-grid-snake.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Yonashenok/Yonashenok/blob/output/github-contribution-grid-snake.gif" />
+</picture>
