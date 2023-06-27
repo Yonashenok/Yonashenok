@@ -7,7 +7,7 @@
 - 🌍  I'm based in Ethiopia <br>
 - 🧠  I'm learning react.jsx<br>
 - 🤝  I'm open to collaborating on web application<br>
-- ✉️ Get in touch [yonashenok21@gmail.com](yonashenok21@gmail.com) <br>
+- ✉️ Get in touch [yonashenok24@gmail.com](yonashenok24@gmail.com) <br>
 - ⚡  I be Happy Coding with 🫵<br>
   <br>
 
