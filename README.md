@@ -44,11 +44,11 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YonasHenok&layout=donut)](https://github.com/YonasHenok/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yonashenok&layout=donut)](https://github.com/Yonashenok/github-readme-stats)
 
 <p> 
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YonasHenok&show_icons=true&theme=react" width="550" height="300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yonashenok&show_icons=true&theme=react" width="550" height="300" />
 </p>
 
 
