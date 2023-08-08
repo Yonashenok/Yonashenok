@@ -54,5 +54,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yonashenok&show_icons=true&theme=react" width="550" height="300" />
 </p>
 
-
-<img align="center" alt="github-snake" src="https://github.com/Yonashenok/Yonashenok/blob/output/github-contribution-grid-snake.svg" width="1350" height="200"  /> 
