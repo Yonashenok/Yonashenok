@@ -12,7 +12,6 @@
   <br>
 
   <br>
-  <br>
 ### Skills
 
 <p align="left">
