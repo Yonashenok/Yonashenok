@@ -47,7 +47,7 @@
 <br>
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yonashenok&theme=radical&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yonashenok&theme=vision-friendly-radical&background=0D1117)](https://git.io/streak-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yonashenok&layout=donut&theme=vision-friendly-radical)](https://github.com/anuraghazra/github-readme-stats)
  <br>
