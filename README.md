@@ -47,8 +47,8 @@
 <br>
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yonashenok&theme=transparent&background=0D1117)](https://git.io/streak-stats)
+<p  align="left" >[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yonashenok&theme=transparent&background=0D1117)](https://git.io/streak-stats) </p> 
+<p  align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yonashenok&layout=donut&theme=vision-friendly-radical&background=0D1117)](https://github.com/anuraghazra/github-readme-stats) </p>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yonashenok&layout=donut&theme=vision-friendly-radical&background=0D1117)](https://github.com/anuraghazra/github-readme-stats)
  <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yonashenok&show_icons=true&theme=transparent&show_icons=true)
