@@ -44,8 +44,6 @@
 
 <br>
 📈 GitHub Stats
-<br>
-<br>
   <p align="center"> 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Yonashenok&show_icons=true&theme=transparent&show_icons=true" alt="Yonashenok"  width="360" height="232" /></p>
   
