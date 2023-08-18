@@ -47,13 +47,11 @@
 <br>
 <br>
 <br>
-<p>
   
 <p> <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Yonashenok&theme=transparent&background=0D1117)](https://git.io/streak-stats" alt="Yonashenok"/</p> 
 
 
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yonashenok&show_icons=true&theme=transparent&show_icons=true" alt="Yonashenok"/></p>
-</p>
 
 
 
