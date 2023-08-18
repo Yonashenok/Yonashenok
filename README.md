@@ -46,11 +46,10 @@
 📈 GitHub Stats
 <br>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonashenok&hide_progress=true&show_icons=true&theme=dark&background=0D1117)](https://github.com/anuraghazra/github-readme-stats" alt="Yonashenok"/></p>
-
   <p align="center"> 
 <p> <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Yonashenok&theme=transparent&background=0D1117)](https://git.io/streak-stats" alt="Yonashenok"  width="360" height="232" /></p> 
 
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yonashenok&show_icons=true&theme=transparent&show_icons=true" alt="Yonashenok"  width="360" height="232" /></p>
   </p>
 
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonashenok&hide_progress=true&show_icons=true&theme=dark&background=0D1117)](https://github.com/anuraghazra/github-readme-stats" alt="Yonashenok"/></p>
