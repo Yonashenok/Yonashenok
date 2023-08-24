@@ -51,3 +51,18 @@
   </p>
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonashenok&hide_progress=true&show_icons=true&theme=dark&background=0D1117)](https://github.com/anuraghazra/github-readme-stats" alt="Yonashenok"/></p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/Yonashenok/Yonashenok/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/Yonashenok/Yonashenok/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/Yonashenok/Yonashenok/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
