@@ -1,7 +1,5 @@
 <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="1350" height="250" />
-
 >
-
 # Hi,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Yonas Henok, a passionate Frontend Developer
 
 - 🌍  I'm based in Ethiopia, Addis Ababa 
@@ -45,13 +43,10 @@
 <br>
 📈 GitHub Stats
   <p align="center"> 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Yonashenok&show_icons=true&theme=transparent&show_icons=true" alt="Yonashenok"  width="360" height="232" /></p>
-  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Yonashenok&show_icons=true&theme=transparent&show_icons=true" alt="Yonashenok"  width="360" height="232" /></p>  
 <p>&nbsp; <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Yonashenok&theme=transparent&background=0D1117)](https://git.io/streak-stats" alt="Yonashenok"  width="360" height="232" /></p> 
   </p>
-
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonashenok&hide_progress=true&show_icons=true&theme=dark&background=0D1117)](https://github.com/anuraghazra/github-readme-stats" alt="Yonashenok" width="360" height="232" /></p>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
