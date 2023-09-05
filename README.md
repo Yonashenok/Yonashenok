@@ -42,6 +42,12 @@
 
 <br>
 📈 GitHub Stats
+<br>
+<br>
+
+
+[![](https://visitcount.itsvg.in/api?id=Yonashenok&icon=1)](https://visitcount.itsvg.in)
+
   <p align="center"> 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Yonashenok&show_icons=true&theme=transparent&show_icons=true" alt="Yonashenok"  width="360" height="232" /></p>  
 <p>&nbsp; <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Yonashenok&theme=transparent&background=0D1117)](https://git.io/streak-stats" alt="Yonashenok"  width="360" height="232" /></p> 
