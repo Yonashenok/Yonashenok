@@ -45,6 +45,7 @@
 <br>
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yonashenok&show_icons=true&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=Yonashenok&icon=1)](https://visitcount.itsvg.in)
 
