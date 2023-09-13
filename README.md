@@ -48,12 +48,15 @@
 
 [![](https://visitcount.itsvg.in/api?id=Yonashenok&icon=1)](https://visitcount.itsvg.in)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yonashenok&theme=dark&show_icons=true)
 
+<p> 
+  <br>
+  <p> <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Yonashenok&theme=transparent&background=0D1117)](https://git.io/streak-stats" alt="Yonashenok"   /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yonashenok&show_icons=true&locale=en&layout=compact" alt="Yonashenok" /></p>
 
-<p align="center"> 
-<p>&nbsp; <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Yonashenok&theme=transparent&background=0D1117)](https://git.io/streak-stats" alt="Yonashenok"  width="360" height="232" /></p> 
-  </p>
+</p>
+  
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
