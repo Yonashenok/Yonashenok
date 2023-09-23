@@ -67,7 +67,7 @@
     srcset="https://github.com/Yonashenok/Yonashenok/blob/output/github-contribution-grid-snake-dark.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt="GitHub contribution grid snake animation"
     src="https://github.com/Yonashenok/Yonashenok/blob/output/github-contribution-grid-snake-dark.svg"
   />
 </picture>
