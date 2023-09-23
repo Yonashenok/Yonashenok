@@ -6,7 +6,7 @@
 - 🧠  I'm learning Ruby and rails
 - 🤝  I'm open to collaborating on web application
 - ✉️ Get in touch [yonashenok24@gmail.com](yonashenok24@gmail.com) 
-- ⚡  I be Happy Coding with 🫵
+- ⚡  I am Happy Coding with 🫵
   <br>
 
   <br>
