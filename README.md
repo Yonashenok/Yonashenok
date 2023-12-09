@@ -53,7 +53,6 @@
   <p> <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Yonashenok&theme=transparent&background=0D1117)](https://git.io/streak-stats" alt="Yonashenok"   /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yonashenok&show_icons=true&locale=en&layout=compact" alt="Yonashenok" /></p>
 
-</p>
   
 <picture>
   <source
