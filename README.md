@@ -2,7 +2,7 @@
 # Hi,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Yonas Henok, a passionate full-stack Developer
 
 - 🌍  I'm based in Ethiopia, Addis Ababa 
-- 🧠  I'm learning NEXT.js
+- 🧠  I'm learning AI Fundamentals
 - 🤝  I'm open to collaborating on web application
 - ✉️ Get in touch [yonashenok24@gmail.com](yonashenok24@gmail.com) 
 - ⚡  I am Happy Coding with 🫵
